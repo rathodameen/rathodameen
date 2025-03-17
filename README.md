@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RATHOD AMEEN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> </h3>
 
 - 📫 How to reach me **rathodameen7@gmail.com**
 
